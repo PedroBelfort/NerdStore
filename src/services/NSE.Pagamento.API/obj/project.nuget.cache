@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozdu6X0Qpqj8dkIElJMRaQ3vsurtqPGh1ApqpCaha3Yx/O0Zv9gCPXjn4dN82aNIQebgQTSwOps+m/7lhx9VbQ==",
+  "dgSpecHash": "Dawq4kyvsr3bRXdizn11jmb6Q66JS8xmGzGHh0rznJYd3RSyrFcX5ColakYSIeNk0qs5WfSZ+NmYmZuNgCWn+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
+  "projectFilePath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro Belfort\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],

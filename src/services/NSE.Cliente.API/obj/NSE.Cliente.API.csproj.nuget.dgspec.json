@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj": {}
+    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj": {
+    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
         "projectName": "NSE.Cliente.API",
-        "projectPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+        "projectPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
         "packagesPath": "C:\\Users\\Pedro Belfort\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Cliente.API\\obj\\",
+        "outputPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Cliente.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

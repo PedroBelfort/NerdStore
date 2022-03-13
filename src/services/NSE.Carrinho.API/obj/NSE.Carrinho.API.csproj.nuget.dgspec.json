@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj": {}
+    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj": {
+    "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
         "projectName": "NSE.Carrinho.API",
-        "projectPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+        "projectPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
         "packagesPath": "C:\\Users\\Pedro Belfort\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\services\\NSE.Carrinho.API\\obj\\",
+        "outputPath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\services\\NSE.Carrinho.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

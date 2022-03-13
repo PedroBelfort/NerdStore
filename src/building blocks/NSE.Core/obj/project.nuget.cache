@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+znPMLTGGicHsYpvkcOiYx+k/RXDB8/wLFmtAp+OFIeonZf5JSc/THgtA49PJkUfa/G8nqyX/Gnv35K9g6dcYw==",
+  "dgSpecHash": "cz7sNOeu7JarD4dKPUGCGX1bXe2J63444szoXBZ4yvqPGLXL1FNsEDnefp5fplI0xWdNV9TOEG7UCupRCCLm4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\NerdStoreEnterpriser\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+  "projectFilePath": "C:\\Users\\Pedro Belfort\\Documents\\desenvolvedor.io\\repository\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
